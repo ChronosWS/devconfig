@@ -1,0 +1,4 @@
+"ui.background" = { bg = "dark-gray" }
+
+[palette]
+dark-gray = "#1F1F1F"
